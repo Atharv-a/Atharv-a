@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Atharv-a
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning DSA and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Atharva
+- 👀 I’m interested in Software Engineering and Machine Learning. 
+- 🌱 I’m currently learning ML.
+<!-- - 💞
+- 📫 How to reach me ... -->
     
     [![@atharv_a's Holopin board](https://holopin.io/api/user/board?user=atharv_a)](https://holopin.io/@atharv_a)
 <!---
