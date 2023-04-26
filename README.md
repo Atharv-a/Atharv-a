@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Atharva
 - 👀 I’m interested in Software Engineering and Machine Learning. 
 - 🌱 I’m currently learning ML.
+- 
    [![@atharv_a's Holopin board](https://holopin.io/api/user/board?user=atharv_a)](https://holopin.io/@atharv_a)
    
 <!-- - 💞
